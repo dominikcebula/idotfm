@@ -3,6 +3,7 @@ iDotFm is a .NET application for scrobbling songs from iPod using iTunes. Applic
 It's easy to use and gives you control over your songs, application also support multiple iPod play.
 
 Tutorial:
+
 1. Before using iDotFm you have to make smart list and rename it to “iDotFm”, use those conditions when making list:
 a) Check “Match the following condition”
 b) Enter condition: “Last Played is in the last 1 month” – you have to select options from listboxes
