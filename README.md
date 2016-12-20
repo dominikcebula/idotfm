@@ -18,7 +18,6 @@ e) Check “Live updating”
 7. If everything’s goes alright your songs should be listed on your lastfm profile, you can shutdown iDotFm.
 
 
-Hope application will work great for you,
-Greetings from Poland ;-)
+Hope application will work great for you.
 
 Please visit my personal website http://dominikcebula.pl/
