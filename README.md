@@ -5,11 +5,17 @@ It's easy to use and gives you control over your songs, application also support
 Tutorial:
 
 1. Before using iDotFm you have to make smart list and rename it to “iDotFm”, use those conditions when making list:
-a) Check “Match the following condition”
-b) Enter condition: “Last Played is in the last 1 month” – you have to select options from listboxes
-c) If checked, uncheck “Limit To”
-d) If checked, uncheck “Match only checked songs”
-e) Check “Live updating”
+
+  a) Check “Match the following condition”
+  
+  b) Enter condition: “Last Played is in the last 1 month” – you have to select options from listboxes
+  
+  c) If checked, uncheck “Limit To”
+  
+  d) If checked, uncheck “Match only checked songs”
+  
+  e) Check “Live updating”
+  
 2. Sync your iPod now, you can disconnect your iPod after this operation.
 3. Now you can run the application, if itunes is installed application should be able to communicate with iTunes.
 4. First write down your login and password and click Save.
